@@ -66,7 +66,7 @@
 				echo "Hello $i<br>";
 			}
 		echo  "<br>";
-			// Application 2
+		// Application 2
 		for($i = 3; $i<10;$i++){
 				echo "$i<br>";
 		}
