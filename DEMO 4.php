@@ -65,6 +65,11 @@
 		for($i = 0; $i<=10;$i++){
 				echo "Hello $i<br>";
 			}
+		echo  "<br>";
+			// Application 2
+		for($i = 3; $i<10;$i++){
+				echo "$i<br>";
+		}
 		?>
 
 	</body>
